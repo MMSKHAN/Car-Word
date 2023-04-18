@@ -1,0 +1,17 @@
+.carbuy{
+background-image: url("./img//honda.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+/* @media screen and(max-width:600px) { */
+/* @media only screen and(width:600px) { */
+    @media screen and (max-width:600px) {
+    .buycev{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }a{
+        text-decoration: none;
+    }
+}
