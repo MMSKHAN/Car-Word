@@ -17,7 +17,7 @@ function Find() {
     <div class="d-sm-flex flex-sm-column justify-content-sm-center align-items-sm-center text-white " data-aos="zoom-in-up" >
   <div class="p-2"><h2>Service Centers</h2></div>
   <div class="p-2"><p>Enter your Zip Code to find dealer offers near you.</p></div>
-  <div class="p-2 border bg-white text-end "><input type="text" className='border-0' placeholder='Zip code' style={{width:"85%",border:
+  <div class="p-2 border bg-white text-end d-flex "><input type="text" className='border-0' placeholder='Zip code' style={{width:"85%",border:
 "none"}} /> <Search className='fa-2x text-dark ' /></div>
 </div>
 </div>
